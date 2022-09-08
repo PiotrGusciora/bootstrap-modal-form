@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-modal-form",
+  "version": "1.0.0",
+  "description": "Bootstrap modal forms are displayed-on-action pop-up forms that are used for gathering data from website visitors, to register or log users.",
+  "main": "basic.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiotrGusciora/bootstrap-modal-form.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-theme",
+    "bootstrap-template",
+    "bootstrap-modal-form",
+    "responsive",
+    "responsive-design"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PiotrGusciora/bootstrap-modal-form/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/modal-form/"
+}
