@@ -67,10 +67,10 @@ Check out [Bootstrap Modal form Documentation](https://mdbootstrap.com/docs/stan
 ![Bootstrap 5 Modal form](/assets/simple-modal-subscription.png)](https://mdbootstrap.com/docs/standard/extended/modal-form/#section-simple-modal-subscription)
 
 [Bootstrap Simple modal contact:
-![Bootstrap 5 Modal form](/assets/modal-with-avatar.png)](https://mdbootstrap.com/docs/standard/extended/modal-form/#section-modal-with-avatar)
+![Bootstrap 5 Modal form](/assets/simple-modal-contact.png)](https://mdbootstrap.com/docs/standard/extended/modal-form/#section-modal-with-avatar)
 
 [Bootstrap Modal with avatar:
-![Bootstrap 5 Modal form](/assets/submenu.png)](https://mdbootstrap.com/docs/standard/extended/modal-form/#section-submenu)
+![Bootstrap 5 Modal form](/assets/modal-with-avatar.png)](https://mdbootstrap.com/docs/standard/extended/modal-form/#section-submenu)
 
 ___
 
