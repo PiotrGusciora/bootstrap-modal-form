@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PiotrGusciora/bootstrap-modal-form.git"
+    "url": "git+https://github.com/mdbootstrap/bootstrap-modal-form.git"
   },
   "keywords": [
     "bootstrap",
@@ -22,7 +22,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PiotrGusciora/bootstrap-modal-form/issues"
+    "url": "https://github.com/mdbootstrap/bootstrap-modal-form/issues"
   },
   "homepage": "https://mdbootstrap.com/docs/standard/extended/modal-form/"
 }
