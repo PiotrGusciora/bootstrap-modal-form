@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-modal-form",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bootstrap modal forms are displayed-on-action pop-up forms that are used for gathering data from website visitors, to register or log users.",
   "main": "basic.html",
   "scripts": {
